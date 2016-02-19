@@ -1,5 +1,7 @@
 # PHP Benelux 2016 Apigility tutorial
 
+http://jeroenherczeg.github.io/php-benelux-apigility
+
 Hands on part of the "Develop RESTful API in PHP using Apigility" tutorial at [PHP Benelux 2016](https://conference.phpbenelux.eu/2016/talk/develop-restful-api-in-php-using-apigility/).
 
 Installation
